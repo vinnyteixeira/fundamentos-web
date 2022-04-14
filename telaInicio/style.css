@@ -1,0 +1,33 @@
+.titulo{
+    display: flex;
+    font-size: 50px;
+    width: 800px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    background-image: url("https://sm.ign.com/ign_br/tv/o/one-piece-/one-piece-2_1xby.jpg");
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+    
+
+}
+.paragrafo{
+
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    padding-right: 25%;
+    padding-left: 25%;
+}
+.container{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+
+}
+.video{
+    gap: 100px;
+    margin-bottom: 150px;
+}
